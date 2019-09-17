@@ -1,0 +1,116 @@
+
+
+A 
+The term "hedge fund" originated from the paired 
+Hedge funds are made available only to certain sophisticated or 
+Hedge funds have existed for many decades and have become increasingly popular. They have now grown to be a substantial fraction of 
+Hedge funds are almost always 
+Many hedge fund investment strategies aim to achieve a positive 
+The word "hedge", meaning a line of bushes around the perimeter of a field, has long been used as a metaphor for placing limits on risk.
+During the US 
+The sociologist 
+In the 1970s, hedge funds specialized in a single strategy with most fund managers following the 
+During the 1990s, the number of hedge funds increased significantly, with the 
+During the first decade of the 21st century hedge funds gained popularity worldwide, and by 2008 the worldwide hedge fund industry held US$1.93 trillion in 
+In June 2011, the hedge fund management firms with the greatest AUM were 
+In July 2017, hedge funds recorded their eighth consecutive monthly gain in returns with assets under management rising to a record $3.1 trillion.
+In 2015, 
+Hedge fund strategies are generally classified among four major categories: 
+The elements contributing to a hedge fund strategy include: the hedge fund's approach to the market; the particular instrument used; the 
+Sometimes hedge fund strategies are described as "
+Hedge funds using a global macro investing strategy take sizable 
+Global macro strategies can be divided into discretionary and systematic approaches. Discretionary trading is carried out by investment managers who identify and select investments, whereas 
+Within global macro strategies, there are further sub-strategies including "systematic diversified", in which the fund trades in diversified markets, or sector specialists cush as "systematic currency" , in which the fund trades in 
+Directional investment strategies use market movements, trends, or inconsistencies when picking stocks across a variety of markets. Computer models can be used, or fund managers will identify and select investments. These types of strategies have a greater exposure to the fluctuations of the overall market than do market neutral strategies.
+Within directional strategies, there are a number of sub-strategies. "
+Event-driven strategies concern situations in which the underlying investment opportunity and risk are associated with an event.
+Corporate transactional events generally fit into three categories: 
+Risk arbitrage
+Special situations are events that impact the value of a company's stock, including the 
+Other event-driven strategies include: credit arbitrage strategies, which focus on corporate 
+Relative value arbitrage strategies take advantage of relative discrepancies in price between securities. The price discrepancy can occur due to mispricing of securities compared to related securities, the 
+In addition to those strategies within the four main categories, there are several strategies that do not fit into these categorizations or can apply across several of them.
+
+For an investor who already holds large quantities of equities and bonds, investment in hedge funds may provide diversification and reduce the overall portfolio risk.
+Investors in hedge funds are, in most countries, required to be qualified investors who are assumed to be aware of the 
+In addition to assessing the market-related risks that may arise from an investment, investors commonly employ 
+Since hedge funds are private entities and have few public 
+Hedge funds share many of the same types of risk as other investment classes, including 
+Many investment funds use 
+Some types of funds, including hedge funds, are perceived as having a greater 
+Hedge fund management firms typically charge their funds both a 
+Management fees are calculated as a percentage of the fund's 
+The 
+Almost all hedge fund performance fees include a "
+Some performance fees include a "
+Some hedge funds charge a redemption fee (or withdrawal fee]]) for early withdrawals during a specified period of time (typically a year), or when withdrawals exceed a predetermined percentage of the original investment.
+Hedge fund management firms are often owned by their 
+Earnings at the very top are higher than in any other sector of the financial industry,
+In 2011, the top manager earned $3,000m, the tenth earned $210m, and the 30th earned $80m.
+Of the 1,226 people on the 
+A porfolio manager risks losing his past compensation if he engages in 
+A hedge fund is an 
+Prime brokers
+Hedge fund administrators
+Calculation of the 
+Administrator 
+A distributor is an 
+Most funds use an independent 
+The legal structure of a specific hedge fund, in particular its 
+US tax-exempt investors (such as 
+Deutsche Bank and Barclays created special options accounts for hedge fund clients in the banks’ names and claimed to own the assets, when in fact the hedge fund clients had full control of the assets and reaped the profits. The hedge funds would then execute trades — many of them a few seconds in duration — but wait until just after a year had passed to exercise the options, allowing them to report the profits at a lower long-term capital gains tax rate.
+The US 
+These banks and hedge funds involved in this case used dubious structured financial products in a giant game of 'let’s pretend,' costing the Treasury billions and bypassing safeguards that protect the economy from excessive bank lending for stock speculation.
+A dozen other hedge funds along with Renaissance Technologies used 
+In contrast to the funds themselves, investment managers are primarily located 
+London was Europe's leading center for hedge fund managers, but since the 
+Hedge fund legal structures vary depending on location and the investor(s). US hedge funds aimed at US-based, taxable investors are generally structured as 
+By contrast, 
+The investment manager who organizes the hedge fund may retain an interest in the fund, either as the general partner of a limited partnership or as the holder of "founder shares" in a corporate fund.
+A side pocket is a mechanism whereby a fund compartmentalizes assets that are relatively 
+Side pockets were widely used by hedge funds during the 
+Hedge funds must abide by the national, federal, and state regulatory laws in their respective locations. The U.S. regulations and restrictions that apply to hedge funds differ from those that apply to its mutual funds.
+In 2007 in an effort to engage in 
+Hedge funds within the US are subject to regulatory, reporting, and record-keeping requirements.
+In December 2004, the SEC began requiring hedge fund advisers, managing more than US$25 million and with more than 14 investors, to register with the SEC under the Investment Advisers Act.
+The U.S.'s 
+Within the European Union (EU), hedge funds are primarily regulated through their managers.
+In the EU, managers are subject to the 
+Some hedge funds are established in 
+In South Africa, investment fund managers must be approved by, and register with, the Financial Services Board (FSB).
+Performance statistics for individual hedge funds are difficult to obtain, as the funds have historically not been required to report their performance to a central repository, and restrictions against public offerings and advertisement have led many managers to refuse to provide performance information publicly. However, summaries of individual hedge fund performance are occasionally available in industry journals
+One estimate is that the average hedge fund returned 11.4% per year,
+Hedge funds performance is measured by comparing their returns to an estimate of their risk.
+New performance measures have been introduced that attempt to address some of theoretical concerns with traditional indicators, including: modified 
+There is a debate over whether 
+Indices that track hedge fund returns are, in order of development, called Non-investable, Investable, and Clone. They play a central and unambiguous role in traditional asset markets, where they are widely accepted as representative of their underlying portfolios. Equity and debt 
+Non-investable indices are indicative in nature, and aim to represent the performance of some database of hedge funds using some measure such as mean, median, or weighted mean from a hedge fund database. The databases have diverse selection criteria and methods of construction, and no single database captures all funds. This leads to significant differences in reported performance between different indices. 
+
+Although they aim to be representative, non-investable indices suffer from a lengthy and largely unavoidable list of 
+The short lifetimes of many hedge funds means that there are many new entrants and many departures each year, which raises the problem of 
+When a fund is added to a database for the first time, all or part of its historical data is recorded ex-post in the database. It is likely that funds only publish their results when they are favorable, so that the average performances displayed by the funds during their incubation period are inflated. This is known as "instant history bias" or "backfill bias".
+
+Investable indices are an attempt to reduce these problems by ensuring that the return of the index is available to shareholders. To create an investable index, the index provider selects funds and develops structured products or derivative instruments that deliver the performance of the index. When investors buy these products the index provider makes the investments in the underlying funds, making an investable index similar in some ways to a fund of hedge funds portfolio.
+
+To make the index investable, hedge funds must agree to accept investments on the terms given by the constructor. To make the index liquid, these terms must include provisions for redemptions that some managers may consider too onerous to be acceptable. This means that investable indices do not represent the total universe of hedge funds. Most seriously, they under-represent more successful managers, who typically refuse to accept such investment protocols.
+
+The most recent addition to the field approach the problem in a different manner. Instead of reflecting the performance of actual hedge funds they take a statistical approach to the analysis of historic hedge fund returns, and use this to construct a model of how hedge fund returns respond to the movements of various investable financial assets. This model is then used to construct an investable portfolio of those assets. This makes the index investable, and in principle they can be as representative as the hedge fund database from which they were constructed. However, these clone indices rely on a statistical modelling process. Such indices have too short a history to state whether this approach will be considered successful.
+
+In March 2017, HFR – a hedge fund research data and service provider – reported that there were more hedge-fund closures in 2016 than during the 2009 recession. According to the report, several large public pension funds pulled their investments in hedge funds, because the funds’ subpar performance as a group did not merit the high fees they charged.
+
+Despite the hedge fund industry topping $3 trillion for the first time ever in 2016, the number of new hedge funds launched fell short of levels before the 
+Systemic risk
+However, these claims are widely disputed by the financial industry,
+Nevertheless, although hedge funds go to great lengths to reduce the ratio of risk to reward, inevitably a number of risks remain.
+An August 2012 survey by the 
+Hedge funds are structured to avoid most direct 
+Funds may choose to report some information in the interest of recruiting additional investors. Much of the data available in consolidated databases is self-reported and unverified.
+A lack of verification of financial documents by investors or by independent auditors has, in some cases, assisted in 
+The process of matching hedge funds to investors has traditionally been fairly opaque, with investments often driven by personal connections or recommendations of portfolio managers.
+In June 2006, prompted by a letter from 
+The systemic practice of hedge funds submitting periodic electronic questionnaires to stock analysts as a part of market research was reported by 
+According to 
+However, there are three reasons why one might not wish to allocate a high proportion of assets into hedge funds. These reasons are:
+
+Several studies have suggested that hedge funds are sufficiently diversifying to merit inclusion in investor portfolios, but this is disputed for example by 
+The other factor reducing the attractiveness of hedge funds in a diversified portfolio is that they tend to perform poorly during equity 

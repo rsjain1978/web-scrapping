@@ -1,0 +1,102 @@
+Deep learning
+Deep learning architectures such as 
+Artificial Neural Networks
+Deep learning is a class of 
+Most modern deep learning models are based on artificial neural networks, specifically, 
+In deep learning, each level learns to transform its input data into a slightly more abstract and composite representation. In an image recognition application, the raw input may be a 
+The word "deep" in "deep learning" refers to the number of layers through which the data is transformed. More precisely, deep learning systems have a substantial 
+Deep learning architectures are often constructed with a 
+For 
+Deep learning algorithms can be applied to unsupervised learning tasks. This is an important benefit because unlabeled data are more abundant than the labeled data. Examples of deep structures that can be trained in an unsupervised manner are neural history compressors
+Deep neural networks are generally interpreted in terms of the 
+The classic universal approximation theorem concerns the capacity of 
+The universal approximation theorem for 
+The 
+The term 
+The first general, working learning algorithm for supervised, deep, feedforward, multilayer 
+Other deep learning working architectures, specifically those built for 
+By 1991 such systems were used for recognizing isolated 2-D hand-written digits, while recognizing 3-D objects was done by matching 2-D images with a handcrafted 3-D object model. Weng 
+In 1994, André de Carvalho, together with Mike Fairhurst and David Bisset, published experimental results of a multi-layer 
+In 1995, 
+Simpler models that use task-specific handcrafted features such as 
+Both shallow and deep learning (e.g., recurrent nets) of ANNs have been explored for many years.
+Most 
+Many aspects of speech recognition were taken over by a deep learning method called 
+In 2006, publications by 
+Deep learning is part of state-of-the-art systems in various disciplines, particularly computer vision and 
+The impact of deep learning in industry began in the early 2000s, when CNNs already processed an estimated 10% to 20% of all the checks written in the US, according to Yann LeCun.
+The 2009 NIPS Workshop on Deep Learning for Speech Recognition
+In 2010, researchers extended deep learning from TIMIT to large vocabulary speech recognition, by adopting large output layers of the DNN based on context-dependent HMM states constructed by 
+Advances in hardware have enabled renewed interest in deep learning. In 2009, 
+In 2012, a team led by George E. Dahl won the "Merck Molecular Activity Challenge" using multi-task deep neural networks to predict the 
+Significant additional impacts in image or object recognition were felt from 2011 to 2012. Although CNNs trained by backpropagation had been around for decades, and GPU implementations of NNs for years, including CNNs, fast implementations of CNNs with max-pooling on GPUs in the style of Ciresan and colleagues were needed to progress on computer vision.
+Image classification was then extended to the more challenging task of generating descriptions (captions) for images, often as a combination of CNNs and LSTMs.
+Some researchers assess that the October 2012 ImageNet victory anchored the start of a "deep learning revolution" that has transformed the AI industry.
+In March 2019, 
+Artificial neural networks
+An ANN is based on a collection of connected units called 
+Typically, neurons are organized in layers. Different layers may perform different kinds of transformations on their inputs. Signals travel from the first (input), to the last (output) layer, possibly after traversing the layers multiple times.
+
+The original goal of the neural network approach was to solve problems in the same way that a human brain would. Over time, attention focused on matching specific mental abilities, leading to deviations from biology such as backpropagation, or passing information in the reverse direction and adjusting the network to reflect that information.
+
+Neural networks have been used on a variety of tasks, including computer vision, 
+As of 2017, neural networks typically have a few thousand to a few million units and millions of connections. Despite this number being several order of magnitude less than the number of neurons on a human brain, these networks can perform many tasks at a level beyond that of humans (e.g., recognizing faces, playing "Go"
+A deep neural network (DNN) is an 
+DNNs can model complex non-linear relationships. DNN architectures generate compositional models where the object is expressed as a layered composition of 
+Deep architectures include many variants of a few basic approaches. Each architecture has found success in specific domains. It is not always possible to compare the performance of multiple architectures, unless they have been evaluated on the same data sets.
+
+DNNs are typically feedforward networks in which data flows from the input layer to the output layer without looping back. At first, the DNN creates a map of virtual neurons and assigns random numerical values, or "weights", to connections between them. The weights and inputs are multiplied and return an output between 0 and 1. If the network did not accurately recognize a particular pattern, an algorithm would adjust the weights.
+Recurrent neural networks
+Convolutional deep neural networks (CNNs)
+As with ANNs, many issues can arise with naively trained DNNs. Two common issues are 
+DNNs are prone to overfitting because of the added layers of abstraction, which allow them to model rare dependencies in the training data. 
+DNNs must consider many training parameters, such as the size (number of layers and number of units per layer), the 
+Alternatively, engineers may look for other types of neural networks with more straightforward and convergent training algorithms. CMAC (
+Large-scale automatic speech recognition is the first and most convincing successful case of deep learning. LSTM RNNs can learn "Very Deep Learning" tasks
+The initial success in speech recognition was based on small-scale recognition tasks based on TIMIT. The data set contains 630 speakers from eight major 
+The debut of DNNs for speaker recognition in the late 1990s and speech recognition around 2009-2011 and of LSTM around 2003-2007, accelerated progress in eight major areas:
+All major commercial speech recognition systems (e.g., Microsoft 
+A common evaluation set for image classification is the MNIST database data set. MNIST is composed of handwritten digits and includes 60,000 training examples and 10,000 test examples. As with TIMIT, its small size lets users test multiple configurations. A comprehensive list of results on this set is available.
+Deep learning-based image recognition has become "superhuman", producing more accurate results than human contestants. This first occurred in 2011.
+Deep learning-trained vehicles now interpret 360° camera views.
+Closely related to the progress that has been made in image recognition is the increasing application of deep learning techniques to various visual art tasks. DNNs have proven themselves capable, for example, of a) identifying the style period of a given painting, b) 
+Neural networks have been used for implementing language models since the early 2000s.
+Other key techniques in this field are negative sampling
+Recent developments generalize 
+Google Translate
+A large percentage of candidate drugs fail to win regulatory approval. These failures are caused by insufficient efficacy (on-target effect), undesired interactions (off-target effects), or unanticipated 
+AtomNet is a deep learning system for structure-based 
+In 2019 generative neural networks were used to produce molecules that were validated experimentally all the way into mice 
+Deep reinforcement learning has been used to approximate the value of possible 
+Recommendation systems have used deep learning to extract meaningful features for a latent factor model for content-based music recommendations.
+An 
+In medical informatics, deep learning was used to predict sleep quality based on data from wearables
+Deep learning has been shown to produce competitive results in medical application such as cancer cell classification, lesion detection, organ segmentation and image enhancement
+Finding the appropriate mobile audience for 
+Deep learning has been successfully applied to 
+Deep learning is being successfully applied to financial 
+The United States Department of Defense applied deep learning to train robots in new tasks through observation.
+Deep learning is closely related to a class of theories of 
+A variety of approaches have been used to investigate the plausibility of deep learning models from a neurobiological perspective. On the one hand, several variants of the 
+Although a systematic comparison between the human brain organization and the neuronal encoding in deep networks has not yet been established, several analogies have been reported. For example, the computations performed by deep learning units could be similar to those of actual neurons
+Many organizations employ deep learning for particular applications.
+
+Facebook
+Google's 
+In 2015, 
+In 2017, Covariant.ai was launched, which focuses on integrating deep learning into factories.
+As of 2008,
+Deep learning has attracted both criticism and comment, in some cases from outside the field of computer science.
+
+A main criticism concerns the lack of theory surrounding some methods.
+
+Others point out that deep learning should be looked at as a step towards realizing strong AI, not as an all-encompassing solution. Despite the power of deep learning methods, they still lack much of the functionality needed for realizing this goal entirely. Research psychologist Gary Marcus noted:
+"Realistically, deep learning is only part of the larger challenge of building intelligent machines. Such techniques lack ways of representing 
+As an alternative to this emphasis on the limits of deep learning, one author speculated that it might be possible to train a machine vision stack to perform the sophisticated task of discriminating between "old master" and amateur figure drawings, and hypothesized that such a sensitivity might represent the rudiments of a non-trivial machine empathy.
+In further reference to the idea that artistic sensitivity might inhere within relatively low levels of the cognitive hierarchy, a published series of graphic representations of the internal states of deep (20-30 layers) neural networks attempting to discern within essentially random data the images on which they were trained
+Some deep learning architectures display problematic behaviors,
+As deep learning moves from the lab into the world, research and experience shows that artificial neural networks are vulnerable to hacks and deception. By identifying patterns that these systems use to function, attackers can modify inputs to ANNs in such a way that the ANN finds a match that human observers would not recognize. For example, an attacker can make subtle changes to an image such that the ANN finds a match even though the image looks to a human nothing like the search target. Such a manipulation is termed an “adversarial attack.” In 2016 researchers used one ANN to doctor images in trial and error fashion, identify another's focal points and thereby generate images that deceived it. The modified images looked no different to human eyes. Another group showed that printouts of doctored images then photographed successfully tricked an image classification system.
+Another group showed that certain 
+ANNs can however be further trained to detect attempts at deception, potentially leading attackers and defenders into an arms race similar to the kind that already defines the 
+Another group demonstrated that certain sounds could make the 
+In “data poisoning”, false data is continually smuggled into a machine learning system's training set to prevent it from achieving mastery.
